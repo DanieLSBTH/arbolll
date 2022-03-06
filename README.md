@@ -1,1 +1,1 @@
-# arbolll
+# el programa utilizando estas estructuras fue eficiente ya que en un árbol separa en forma binaria los números los cuales pueden para ser una búsqueda o separar datos es algo mas útil que de lo normal
